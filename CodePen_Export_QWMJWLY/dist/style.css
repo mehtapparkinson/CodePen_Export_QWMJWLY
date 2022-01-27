@@ -1,0 +1,71 @@
+body {
+  background: #faf5e6;
+  font-family: sans-serif;
+  color: #040c52;
+  text-align: center;
+}
+
+#barcelona-landscape {
+  border-radius: 60px;
+  width: auto;
+  text-align: center;
+}
+
+.first-row-photos {
+  width: auto;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-left: 200px;
+  padding-right: 200px;
+  text-align: center;
+  color: #040c52;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 2px 2px #000000;
+  font-family: sans-serif;
+  background: linear-gradient(90deg, #cfecd0, #a0cea7, #9ec0db);
+  color: white;
+  padding: 40px;
+  border: dashed 10px;
+  border-radius: 25px;
+}
+
+p {
+  font-size: 25px;
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: justify;
+}
+
+#intro {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: white;
+  text-shadow: 1px 1px #000000;
+  background: linear-gradient(90deg, #cfecd0, #a0cea7, #9ec0db);
+  padding: 60px;
+  border: dashed 5px white;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h2 {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.places {
+  text-align: center;
+}
+
+.footer p {
+  background-color: #00000048;
+  font-size: 15px;
+  align-content: center;
+  padding: 50pxr;
+}
